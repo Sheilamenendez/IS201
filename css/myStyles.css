@@ -1,0 +1,30 @@
+/* Style definitions */
+
+/* Style 1: Font color */
+.red-text {
+    color: rgb(255, 0, 242);
+  }
+  
+  /* Style 2: Font family */
+  .custom-font {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  /* Style 3: Positioning */
+  .positioned-div {
+    position: relative;
+    top: 20px;
+    left: 20px;
+  }
+  
+  /* Style 4: Border and background */
+  .styled-div {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: lightgrey;
+  }
+  
+  
+    
